@@ -1,9 +1,6 @@
 [submodule "ecbuild"]
 	path = ecbuild
 	url = https://github.com/ecmwf/ecbuild.git
-[submodule "ESMA_cmake"]
-	path = ESMA_cmake
-	url = https://github.com/GEOS-ESM/ESMA_cmake.git
 [submodule "MAPL"]
 	path = MAPL
 	url = https://github.com/GEOS-ESM/MAPL.git
