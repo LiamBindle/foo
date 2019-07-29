@@ -10,3 +10,6 @@
 [submodule "ESMA_cmake"]
 	path = ESMA_cmake
 	url = https://github.com/LiamBindle/ESMA_cmake.git
+[submodule "GMAO_Shared"]
+	path = GMAO_Shared
+	url = https://github.com/LiamBindle/GMAO_Shared.git
