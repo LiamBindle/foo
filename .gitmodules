@@ -3,7 +3,7 @@
 	url = https://github.com/ecmwf/ecbuild.git
 [submodule "MAPL"]
 	path = MAPL
-	url = https://github.com/GEOS-ESM/MAPL.git
+	url = https://github.com/LiamBindle/MAPL.git
 [submodule "GMAO_Shared"]
 	path = GMAO_Shared
 	url = https://github.com/GEOS-ESM/GMAO_Shared
@@ -12,4 +12,4 @@
 	url = https://github.com/GEOS-ESM/GEOSgcm_GridComp.git
 [submodule "ESMA_cmake"]
 	path = ESMA_cmake
-	url = https://github.com/GEOS-ESM/ESMA_cmake.git
+	url = https://github.com/LiamBindle/ESMA_cmake.git
