@@ -6,7 +6,7 @@
 	url = https://github.com/LiamBindle/MAPL.git
 [submodule "GMAO_Shared"]
 	path = GMAO_Shared
-	url = https://github.com/GEOS-ESM/GMAO_Shared
+	url = https://github.com/LiamBindle/GMAO_Shared.git
 [submodule "GEOSgcm_GridComp"]
 	path = GEOSgcm_GridComp
 	url = https://github.com/GEOS-ESM/GEOSgcm_GridComp.git
